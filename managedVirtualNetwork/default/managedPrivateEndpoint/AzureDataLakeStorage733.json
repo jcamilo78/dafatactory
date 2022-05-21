@@ -1,0 +1,10 @@
+{
+	"name": "AzureDataLakeStorage733",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/5d7b5d29-2f74-4ef1-adcc-99ecd6bb0369/resourceGroups/rq_europe_01/providers/Microsoft.Storage/storageAccounts/saiiotlab",
+		"groupId": "dfs",
+		"fqdns": [
+			"saiiotlab.dfs.core.windows.net"
+		]
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "iiotlab",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7de59c68-9be0-480e-a0d6-28f4da0df543",
+		"tenantId": "39af38c5-9902-4e81-a75c-2e8a80a1e3b5"
+	}
+}
